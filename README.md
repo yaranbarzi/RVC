@@ -1,5 +1,6 @@
 # RVC — Applio Inference (No UI)
 
-برای باز کردن و اجرای نوت‌بوک inference_Applio_NoUI.ipynb در Google Colab، روی دکمه‌ی زیر کلیک کنید:
+نوتبوک های Applio RVC 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/inference_Applio_NoUI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/Applio_2025_RVC.ipynb)
