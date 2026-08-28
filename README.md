@@ -13,3 +13,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/E2_F5_TTS.ipynb)
 
 
+### کلون صدا Seed_VC 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/Seed_VC_Colab.ipynb)
