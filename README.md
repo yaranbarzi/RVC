@@ -15,3 +15,9 @@
 
 ### کلون صدا Seed_VC 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/Seed_VC_Colab.ipynb)
+
+
+
+### کلون صدا Omni voice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/RVC/blob/main/voice_clone_from_docx.ipynb)
+
